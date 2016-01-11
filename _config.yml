@@ -2,6 +2,7 @@ name: Vidiotbox
 favicon: null
 layout_spectrum: 0.73984
 typography_spectrum: 0.2618
+title: Vidiot
 cta:
   domain: null
   bucket: null
