@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vidiot]]></title>
+        <description><![CDATA[Vidiot]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 18:14:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nero - Into The Night]]></title>
+            <description><![CDATA[<article><h1>Nero - Into The Night</h1><p>Music Video</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8a34f9555219db666d782ffc94e43eb8e797e3a.jpg"></article>]]></description>
+            <link>http://votd.tv/winners/1352/nero-into-the-night</link>
+            <guid isPermaLink="false">f18699f7-2afe-4f96-bc53-20f624e50eaf</guid>
+            <pubDate>Mon, 11 Jan 2016 18:13:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
