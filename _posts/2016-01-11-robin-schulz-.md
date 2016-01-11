@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://votd.tv'
-  name: Votd
-  favicon: 'http://votd.tv/public/img/front/favicon.png'
-  domain: votd.tv
-keywords: []
-description: 'Dancing cop causes mayhem on the streets of El Monte, California.'
-app_links: []
-isBasedOnUrl: 'http://votd.tv/winners/1359/robin-schulz-sugar-director-s-cut'
-title: Robin Schulz -
-datePublished: '2016-01-11T18:13:41.792Z'
-dateModified: '2016-01-11T18:11:27.407Z'
-sourcePath: _posts/2016-01-11-robin-schulz-.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://votd.tv/winners/1359/robin-schulz-sugar-director-s-cut'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Dancing cop causes mayhem on the streets of El Monte, California.'
+datePublished: '2016-01-11T18:26:39.307Z'
+dateModified: '2016-01-11T18:22:02.781Z'
+author: []
+related: []
+app_links: []
+title: Robin Schulz -
+sourcePath: _posts/2016-01-11-robin-schulz-.md
+published: true
+authors: []
+publisher:
+  name: Votd
+  domain: votd.tv
+  url: 'http://votd.tv'
+  favicon: 'http://votd.tv/public/img/front/favicon.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
