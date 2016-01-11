@@ -1,14 +1,9 @@
 ---
-author:
-  - name: emimusic
-    url: 'https://www.youtube.com/user/emimusic'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - duration
   - bowie
@@ -21,7 +16,13 @@ keywords:
   - video
   - http
 description: "Music video by David Bowie performing ''Heroes''. Taken from the album 'Heroes' Buy the David Bowie back catalogue on iTunes here: http://smarturl.it/bowieitunes Listen to this track on Spotify: http://smarturl.it/z9d8n8 Buy the album on Amazon: http://smarturl.it/b3aa0u"
-inLanguage: en
+datePublished: '2016-01-11T18:02:25.515Z'
+dateModified: '2016-01-11T18:01:45.912Z'
+author:
+  - name: emimusic
+    url: 'https://www.youtube.com/user/emimusic'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Tgcc5V9Hu3g&feature=applinks'
     type: ios
@@ -33,15 +34,16 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=Tgcc5V9Hu3g&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Tgcc5V9Hu3g'
 title: David Bowie - Heroes
-datePublished: '2016-01-11T17:01:01.429Z'
-dateModified: '2016-01-11T16:22:52.464Z'
 sourcePath: _posts/2016-01-11-david-bowie-heroes.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: david-bowie-heroes/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
