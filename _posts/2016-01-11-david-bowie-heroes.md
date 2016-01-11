@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - video
   - http
 description: "Music video by David Bowie performing ''Heroes''. Taken from the album 'Heroes' Buy the David Bowie back catalogue on iTunes here: http://smarturl.it/bowieitunes Listen to this track on Spotify: http://smarturl.it/z9d8n8 Buy the album on Amazon: http://smarturl.it/b3aa0u"
-datePublished: '2016-01-11T18:02:25.515Z'
-dateModified: '2016-01-11T18:01:45.912Z'
+datePublished: '2016-01-11T18:22:37.851Z'
+dateModified: '2016-01-11T18:22:32.887Z'
 author:
   - name: emimusic
     url: 'https://www.youtube.com/user/emimusic'
