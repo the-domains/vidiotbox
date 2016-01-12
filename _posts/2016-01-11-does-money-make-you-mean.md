@@ -1,14 +1,9 @@
 ---
-author:
-  - name: AJ+
-    url: 'https://www.youtube.com/channel/UCV3Nm3T-XAgVhKH9jT0ViRg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -21,7 +16,13 @@ keywords:
   - tedx
   - ajplus
 description: "Does money make you mean? Do wealthy people have less compassion than poor people? Find out in this mini version of Paul Piff's TEDx Talk, \"Does Money Make You Mean?\""
-inLanguage: en
+datePublished: '2016-01-12T03:18:03.766Z'
+dateModified: '2016-01-12T03:17:56.730Z'
+author:
+  - name: AJ+
+    url: 'https://www.youtube.com/channel/UCV3Nm3T-XAgVhKH9jT0ViRg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=n8myxhawodw&feature=applinks'
     type: ios
@@ -33,15 +34,16 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=n8myxhawodw&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=n8myxhawodw'
 title: Does Money Make You Mean?
-datePublished: '2016-01-11T18:34:17.898Z'
-dateModified: '2016-01-11T18:29:45.164Z'
 sourcePath: _posts/2016-01-11-does-money-make-you-mean.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: does-money-make-you-mean/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
