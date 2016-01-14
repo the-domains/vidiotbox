@@ -1,6 +1,6 @@
 name: Vidiotbox
 favicon: null
-layout_spectrum: 0.24662
+layout_spectrum: 0.51582
 typography_spectrum: 0.2618
 title: Vidiot
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#4aa8c1'
-    - '#fafaf0'
-    - '#2a1b14'
-    - '#f9dd30'
-    - '#be4630'
+    - '#ffffff'
+    - '#2c2c2c'
+    - '#c7c7c7'
+    - '#5f5f5f'
+    - '#888888'
   brandStrength: 0.6005659808870405
   lightness: 0.0625
   saturation: 0.6875
