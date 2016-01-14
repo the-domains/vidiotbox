@@ -4,8 +4,15 @@
         <description><![CDATA[Vidiot]]></description>
         <link>https://thegrid.ai/vidiotbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 15:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 15:34:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vidiotbox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Birth - Monty Python's The Meaning of Life]]></title>
+            <description><![CDATA[<article><h1>Birth - Monty Python's The Meaning of Life</h1><p>Subscribe to the Official Monty Python Channel here - http://smarturl.it/SubscribeToPython Birth, taken from The Meaning of Life. Visit the official Monty Python store - http://smarturl.it/MontyPythonStores Visit the NEW Monty Python iTunes store - http://smarturl.it/MontyPython1D5TGitun Welcome to the official Monty Python YouTube channel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66fc1ba9301eb35101bca002f9efe84bc78c1dfb.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=NcHdF1eHhgc</link>
+            <guid isPermaLink="false">5e6f488a-49ae-462d-8acd-19926093cf75</guid>
+            <pubDate>Thu, 14 Jan 2016 15:33:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Xtreme Collxtion: Red Bull Dreamline]]></title>
             <description><![CDATA[<article><h1>Xtreme Collxtion: Red Bull Dreamline</h1><p>Red Bull Dreamline is one of the best dirt jump competitions in the world. Watch Xtreme Collxtion Saturdays at 8pm. http://www.outsidetelevision.com/show/xtreme-collxtion</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e668af606c256fa3dc4dd02174667bdac793efe7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vidiotbox/david-bowie-heroes/index.html</link>
             <guid isPermaLink="false">96451b3c-106d-4ad9-b5ac-5e2c7d4c9492</guid>
             <pubDate>Mon, 11 Jan 2016 18:24:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robin Schulz -]]></title>
-            <description><![CDATA[<article><h1>Robin Schulz -</h1><p>Dancing cop causes mayhem on the streets of El Monte, California.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58c59e944265074a4a51ac2db6f83a78b35794b3.jpg"></article>]]></description>
-            <link>http://votd.tv/winners/1359/robin-schulz-sugar-director-s-cut</link>
-            <guid isPermaLink="false">056426a8-ce86-49bc-b164-53384c681733</guid>
-            <pubDate>Mon, 11 Jan 2016 18:26:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
